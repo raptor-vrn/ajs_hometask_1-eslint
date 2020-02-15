@@ -1,0 +1,26 @@
+{
+  "name": "ajs_hometask_1-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raptor-vrn/ajs_hometask_1-eslint.git"
+  },
+  "author": "raptor-vrn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raptor-vrn/ajs_hometask_1-eslint/issues"
+  },
+  "homepage": "https://github.com/raptor-vrn/ajs_hometask_1-eslint#readme"
+}
